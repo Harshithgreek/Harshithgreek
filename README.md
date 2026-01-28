@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m a developer who enjoys building things from scratch and understanding how systems work end-to-end. I focus on writing clean, efficient code and continuously improving my skills through hands-on projects. Always curious, always learning, and driven by the challenge of turning ideas into reality
+ I’m a developer who enjoys building things from scratch and understanding how systems work end-to-end. I focus on writing clean, efficient code and continuously improving my skills through hands-on projects. Always curious, always learning, and driven by the challenge of turning ideas into reality.
 
 
 ## 🌐 Socials:
